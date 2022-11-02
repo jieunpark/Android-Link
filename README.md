@@ -5,25 +5,27 @@ Android 개발하면서 유용한 사이트 목록
 ## Android Developers
 https://developer.android.com/index.html
 
+### 공식 Github
++ 공식 컴퍼넌트 샘플 github  https://github.com/android/architecture-components-samples
++ 공식 아키텍쳐 샘플 Github https://github.com/android/architecture-samples/tree/master
++ 공식 컴포즈 샘플 Github https://github.com/android/compose-samples
++ 공식 코루틴 Github https://github.com/Kotlin/kotlinx.coroutines
++ 공식 GDG Korea Android GitHub https://github.com/gdgand
+
 ### 아키텍쳐
 + 앱 아키텍처 가이드 https://developer.android.com/topic/architecture
-+ https://developer.android.com/topic/libraries/architecture
-+ https://github.com/android/architecture-components-samples
-+ https://github.com/android/architecture-samples/tree/todo-mvp
++ 안드로이드 아키텍쳐 구성요소 https://developer.android.com/topic/libraries/architecture
 
 ### Material Design 
-+ https://developer.android.com/guide/topics/ui/look-and-feel?hl=ko
-+ https://material.io/design/introduction
-+ https://m3.material.io/
-+ http://mcg.mbitson.com/#!?mcgpalette0=%233f51b5#%2F
-+ https://www.materialpalette.com/
-+ https://fonts.google.com/icons?selected=Material+Icons
++ 안드로이드의 머테리얼 디자인 https://developer.android.com/guide/topics/ui/look-and-feel?hl=ko
++ 구글 오픈 소스 디자인 시스템 최신버전(Material 3) https://m3.material.io/
++ 머테리얼 색깔 팔레트 http://mcg.mbitson.com/#!?mcgpalette0=%233f51b5#%2F
++ 머테리얼 색깔 팔레트 https://www.materialpalette.com/
++ 구글 아이콘 https://fonts.google.com/icons?selected=Material+Icons
 
 ### Compose
-+ https://developer.android.com/jetpack/compose/tutorial?hl=ko
-+ https://developer.android.com/courses/pathways/compose
-+ https://github.com/android/compose-samples
-
++ 컴포즈 튜토리얼 https://developer.android.com/jetpack/compose/tutorial?hl=ko
++ 컴포즈 따라하기 https://developer.android.com/courses/pathways/compose
 
 ### Network
 + https://square.github.io/retrofit/
@@ -31,15 +33,15 @@ https://developer.android.com/index.html
 
 
 ### Kotlin
-+ https://developer.android.com/kotlin/first?hl=ko
-+ https://kotlinlang.org/docs/home.html
++ 안드로이드의 코틀린 사이트 https://developer.android.com/kotlin/first?hl=ko
++ 코틀린 공식 사이트 https://kotlinlang.org/docs/home.html
++ 코튼린 플레이그라운드 https://play.kotlinlang.org/
 
 
 ### Coroutine
-+ https://kotlinlang.org/docs/coroutines-overview.html
-+ https://kotlinlang.org/docs/coroutines-guide.html
-+ https://github.com/Kotlin/kotlinx.coroutines
-+ https://medium.com/@kimtaesoo188/guide-to-kotlin-coroutines-coroutine-basics-part-1-35215c510c3d
++ 코틀린 사이트의 코루틴 https://kotlinlang.org/docs/coroutines-overview.html
++ 코틀린 사이트의 코루틴 가이드 https://kotlinlang.org/docs/coroutines-guide.html
++ 코루틴 블로그 글 https://medium.com/@kimtaesoo188/guide-to-kotlin-coroutines-coroutine-basics-part-1-35215c510c3d
 
 
 ### DataBinding
