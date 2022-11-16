@@ -22,6 +22,7 @@ https://developer.android.com/index.html
 + 머테리얼 색깔 팔레트 http://mcg.mbitson.com/#!?mcgpalette0=%233f51b5#%2F
 + 머테리얼 색깔 팔레트 https://www.materialpalette.com/
 + 구글 아이콘 https://fonts.google.com/icons?selected=Material+Icons
++ 머테리얼 유형 스케일 생성기 도구 https://m2.material.io/design/typography/the-type-system.html#type-scale
 
 ### Compose
 + 컴포즈 튜토리얼 https://developer.android.com/jetpack/compose/tutorial?hl=ko
