@@ -11,6 +11,7 @@ https://developer.android.com/index.html
 + 공식 컴포즈 샘플 Github https://github.com/android/compose-samples
 + 공식 코루틴 Github https://github.com/Kotlin/kotlinx.coroutines
 + 공식 GDG Korea Android GitHub https://github.com/gdgand
++ 공식 아키텍쳐, 모듈화 등 학습 샘플 Github https://github.com/android/nowinandroid
 
 ### 아키텍쳐
 + 앱 아키텍처 가이드 https://developer.android.com/topic/architecture
